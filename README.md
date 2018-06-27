@@ -21,4 +21,4 @@
 
 不推荐自架，单IP长期很难可靠，除非你想反复切IP（要花钱），可以选IP池比较大的：[Vultr](https://www.vultr.com/?ref=6996621)，但加上换的IP整体成本往往高于付费VPN。
 
-[付费vpn推荐原文](https://www.wallmama.com/2018/05/%E5%93%AA%E7%A7%8D%E4%BB%98%E8%B4%B9vpn%E6%AF%94%E8%BE%83%E7%A8%B3%E5%AE%9A/)
+[中国国内能用的付费vpn推荐](https://www.wallmama.com/2018/03/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%86%85%E8%83%BD%E7%94%A8%E7%9A%84vpn/)
