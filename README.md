@@ -6,18 +6,20 @@
 
 **这是本文推荐的中国能用的VPN速览：**
 
-* 1 [ExpressVPN](https://indx.cc/exp)：什么都不需要说，我自己用了5年多，市场上最强跨设备通用翻墙软件
-* 2 [PandaVPN](https://indx.cc/pandavpn)：新出的服务，目前工作良好，其实**不是VPN而是加密代理**
-* 3 [AstrillVPN](https://indx.cc/astrillcn)：低调的厂商，但其实中国一直能用，在中国的老外很多都用这个
-* 4 [VyprVPN](https://indx.cc/vyr)：兢兢业业为中国翻墙者服务，不是最强大的，但能用
+* [AstrillVPN](https://indx.cc/astrillcn)：低调的厂商，但其实中国一直能用，在中国的老外很多都用这个
+* [ExpressVPN](https://indx.cc/exp)：2025年比较难用了
 
 **最后更新：2019年11月**
 
 `列表可能随时变化，可以收藏本帖，保持关注。`
 
 不要期望单个工具能保证100%连通率，至少每年敏感时期绝对是做不到的。如果你追求全年100%连通率，需要一个工具组合，我自己的组合是：
-[ExpressVPN - 基于VPN协议](https://indx.cc/exp) + 蓝灯（或[PandaVPN - 第三方加密代理服务](https://indx.cc/pandavpn)） + [自建SSR - 较私密的加密代理](https://indx.cc/vtr)，基本上前两者就可做到99.5%+的连通率。
+[AstrillVPN - 基于VPN协议](https://indx.cc/astrillcn)） + [自建 - 较私密的加密代理](https://www.wallmama.com/best-vps-to-bypass-gfw/)，基本上前两者就可做到99.5%+的连通率。
 
+下面的不用看了。
+
+
+---
 
 # 翻墙软件比较
 
